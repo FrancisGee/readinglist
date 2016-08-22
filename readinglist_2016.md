@@ -1,8 +1,12 @@
-﻿#2016年书单
+#2016年书单
+`读过`
+
+**在读**
+
 1. 《目送》 -   龙应台(台湾)
-2. 《Pride and Prejudice》 - Jane Austen（英）
+2. **《Pride and Prejudice》 - Jane Austen（英）**
 3. 《The Old Man and the Sea》- Ernest Hemingway（美）
-4. 《1984》- George Orwell（英）
+4. `《1984》- George Orwell（英）`
 5. 《平凡的世界》-路遥
 6. 《活着》-余华
 7. 《资本论》-
@@ -11,4 +15,4 @@
 10.《理想国》-
 11.《The Great Gatsby》-F. Scott Fitzgerald(美)
 12. 《On Writing Well》-William Zinsser
-13. 《三体》-刘慈欣
+13. **《三体》-刘慈欣**
