@@ -1,18 +1,20 @@
 #2016年书单
-`读过`
 
-**在读**
+## Token Meaning: `读过`  **在读**
 
-1. 《目送》 -   龙应台(台湾)
-2. **《Pride and Prejudice》 - Jane Austen（英）**
-3. 《The Old Man and the Sea》- Ernest Hemingway（美）
-4. `《1984》- George Orwell（英）`
-5. 《平凡的世界》-路遥
-6. 《活着》-余华
-7. 《资本论》-
-8. 《Walden》-Henry David Thoreau(美)
-9. 《The Little Prince》-Hodgson Burnett(法)
-10.《理想国》-
-11.《The Great Gatsby》-F. Scott Fitzgerald(美)
-12. 《On Writing Well》-William Zinsser
-13. **《三体》-刘慈欣**
+
+
+
+*        《目送》 -   龙应台(台湾)
+*      **《Pride and Prejudice》 - Jane Austen（英）**
+*        《The Old Man and the Sea》- Ernest Hemingway（美）
+*       `《1984》- George Orwell（英）`
+*        《平凡的世界》-路遥
+*        《活着》-余华
+*        《资本论》-马克思
+*        《Walden》-Henry David Thoreau(美)
+*        《The Little Prince》-Hodgson Burnett(法)
+*        《理想国》-柏拉图
+*        《The Great Gatsby》-F. Scott Fitzgerald(美)
+*        《On Writing Well》-William Zinsser
+*      **《三体》-刘慈欣**
