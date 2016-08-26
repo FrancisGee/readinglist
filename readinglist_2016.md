@@ -6,7 +6,7 @@
 
 
 *        《目送》 -   龙应台(台湾)
-*      **《Pride and Prejudice》 - Jane Austen（英）**
+*      `《Pride and Prejudice》 - Jane Austen（英）`(2016/08/26)
 *        《The Old Man and the Sea》- Ernest Hemingway（美）
 *       `《1984》- George Orwell（英）`
 *        《平凡的世界》-路遥
