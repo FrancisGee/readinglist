@@ -18,5 +18,6 @@
 *        《The Great Gatsby》-F. Scott Fitzgerald(美)
 *        **《On Writing Well》-William Zinsser(美)**
 *        `《三体》-刘慈欣`
-*        `《How to Read a Book》-Mortimer J.Adler(美)`
+*  `《How to Read a Book》-Mortimer J.Adler(美)`
 *        `《学会提问》-尼尔·布朗`
+*        **《失控》-凯文·凯利**
