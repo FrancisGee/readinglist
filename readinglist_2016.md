@@ -9,7 +9,7 @@
 *      `《Pride and Prejudice》 - Jane Austen（英）`
 *        《The Old Man and the Sea》- Ernest Hemingway（美）
 *       `《1984》- George Orwell（英）`
-*        《平凡的世界》-路遥
+*        **《平凡的世界》-路遥**
 *        《活着》-余华
 *        《资本论》-马克思
 *        《Walden》-Henry David Thoreau(美)
