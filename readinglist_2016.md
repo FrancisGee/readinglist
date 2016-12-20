@@ -15,7 +15,7 @@
 *        《Walden》-Henry David Thoreau(美)
 *        `《The Little Prince》-Hodgson Burnett(法)`
 *        `《理想国》-柏拉图`
-*        《The Great Gatsby》-F. Scott Fitzgerald(美)
+*        **《The Great Gatsby》-F. Scott Fitzgerald(美)**
 *        `《On Writing Well》-William Zinsser(美)`
 *        `《三体》-刘慈欣`
 *  `《How to Read a Book》-Mortimer J.Adler(美)`
