@@ -10,5 +10,5 @@
 *        《资本论》-马克思
 *        《Walden》-Henry David Thoreau(美)
 *        **《平凡的世界》-路遥**
-*        **《The Great Gatsby》-F. Scott Fitzgerald(美)**
+*        `《The Great Gatsby》-F. Scott Fitzgerald(美)`
 *  《激荡三十年》　--吴晓波
