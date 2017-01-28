@@ -3,7 +3,7 @@
 ## Token Meaning: `读过`  **在读**   *重读*
 
 * 
-* **《孙子兵法》**
+* **《孙子兵法》国学研读**
 * 《十亿消费者》--译言(《One Billion Customers》--- James McGregor)
 *        **《The Old Man and the Sea》- Ernest Hemingway（美）**
 *        《活着》-余华
