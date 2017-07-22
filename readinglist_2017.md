@@ -8,7 +8,7 @@
 * `《The Old Man and the Sea》- Ernest Hemingway（美）`
 *   `《活着》-余华`
 *   `《资本论》-马克思`
-*   **《Moon and Sixpence》 -William Somerset Maugham**
+*   `《Moon and Sixpence》 -William Somerset Maugham`
 *  `《平凡的世界》-路遥`
 *  `《The Great Gatsby》-F. Scott Fitzgerald(美)`
 *  `《激荡三十年》　--吴晓波`
@@ -24,5 +24,5 @@
 *   《文化苦旅》
 *   `《万历十五年》`
 *   `《数字黄金》`
-*   *《穷爸爸与富爸爸》*(开天眼)
-*    **《股权战争》--苏龙飞**(开天眼)
+*   *《穷爸爸与富爸爸》*
+*    `《股权战争》`
